@@ -19,7 +19,6 @@ public class SendMail {
 	public static void main(String[] args) {
 		// TODO 自动生成的方法存根
 		SendMail sendMail=new SendMail();
-		sendMail.sendmessage("zhengshuheng@hk515.com", "zheng@159791", "smtp.mxhichina.com", "25", "zhengshuheng@hk515.com", "609958331@qq.com,80295523@qq.com", "测试邮件发送函数", "测试邮件发送函数");
 
 	}
 	/**
